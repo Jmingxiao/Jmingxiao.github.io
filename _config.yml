@@ -44,9 +44,9 @@ social:
     # The first element serves as the copyright owner's link
     - https://jmingxiao.itch.io/     # change to your twitter homepage
     - https://github.com/Jmingxiao       # change to your github homepage
+    - www.linkedin.com/in/mingxiao-jiang
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
 
 google_site_verification:               # fill in to your verification string
 
@@ -87,7 +87,7 @@ avatar: /assets/img/polio.gif
 toc: true
 
 comments:
-  active:         # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+  active: disqus       # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:
     shortname:    # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
