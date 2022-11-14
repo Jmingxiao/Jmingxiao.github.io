@@ -5,6 +5,7 @@ date: 2022-11-13 21:10:00 +0800
 categories: [Projects]
 tags: [projects]     
 mermaid: true
+comments: true
 img_path: /assets/img/portfolio
 ---
 This post will include several labs and my own projects.
@@ -19,6 +20,7 @@ This post will include several labs and my own projects.
 3. Percentage closer shadow mapping
 ![sm](shadowmap.png)
 
-
+4. Postprocessing Bloom effect
+![blo](bloom.png)
 
 
