@@ -13,3 +13,7 @@ This post will include several labs and my own projects.
 ## Computer Graphics Lab
 These are some [CG labs](/posts/cgLab) I have accomplished.
 ![pbr](aaa.png)
+
+## Game AI Projects
+These are some [game ai projects](/posts/gameai) I have accomplished.
+![pbr](aaa.png)
