@@ -16,4 +16,8 @@ These are some [CG labs](/posts/cgLab) I have accomplished.
 
 ## Game AI Projects
 These are some [game ai projects](/posts/gameai) I have accomplished.
-![pbr](aaa.png)
+- path finding algorithms
+- chess ai
+- tsp genetic algorithm
+- maze generation
+- Lsystem for plants  
