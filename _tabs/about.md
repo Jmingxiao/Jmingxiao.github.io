@@ -34,5 +34,6 @@ Graphic pipeline, raytracing(path tracing), and PBR.
 
 
 ![ଘ(੭ˊᵕˋ)੭](popocat.gif){: width="300" height="300" .left }  
+>*For further information about my previous projects you can check my [portfolio](/posts/portfolio)*  
 >*For further information you can check my [Linkedin](https://www.linkedin.com/in/mingxiao-jiang/).*   
 >*If you wish to reach me for any reason feel free to send me an email: jiang.mingxiao1@gmail.com .*  
