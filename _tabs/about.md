@@ -31,9 +31,33 @@ Familiar with OpenGL, Vulkan, Unity Engine, Unreal Engine
 Graphic pipeline, raytracing(path tracing), and PBR.
 
 *****
+## Projects
 
+#### Computer Graphic Projects
+These are some [CG projects](/posts/cgLab) I have accomplished.
+![cg](cg.png) 
 
+#### Game AI Projects
+These are some [game ai projects](/posts/gameai) I have accomplished.
+- path finding algorithms
+- chess ai
+- tsp genetic algorithm
+- maze generation
+- Lsystem for plants  
+![ai](ai.png) 
+
+#### Network programming for games 
+A mutiplayer tank game 
+- Custom connection protocol over UDP.
+- Reliable and unreliable messages through UDP.
+- Client Server architecture.
+- Master/Lobby server.
+- Client-Side Prediction and Server Reconciliation
+- Entity interpolation.
+![tank war](net.png)  
+
+*************************** 
+ 
 ![ଘ(੭ˊᵕˋ)੭](popocat.gif){: width="300" height="300" .left }  
->*For further information about my previous projects you can check my [portfolio](/posts/portfolio)*  
 >*For further information you can check my [Linkedin](https://www.linkedin.com/in/mingxiao-jiang/).*   
 >*If you wish to reach me for any reason feel free to send me an email: jiang.mingxiao1@gmail.com .*  
