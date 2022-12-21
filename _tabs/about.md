@@ -23,13 +23,6 @@ GAME DEVELOPER | 06/2022 - 09/2022
 SOFTWARE ENGINNEER | 07/2021 - 08/2021   
 *Kingsoft Seasun games* - Zhuhai, Guangdong province, China 
 
-******
-## Skills
-c/c++ and c# proficiency,   
-shader language (cg, GLSL, HLSL)  
-Familiar with OpenGL, Vulkan, Unity Engine, Unreal Engine  
-Graphic pipeline, raytracing(path tracing), and PBR.
-
 *****
 ## Projects
 
