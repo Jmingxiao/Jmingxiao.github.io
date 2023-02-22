@@ -7,7 +7,7 @@ img_path: /assets/img/intro
 ### Game Projects
 #### Stump
 The Stump is an arcade game with up to 4 players, compete in 3 unique mini-games. Each game with a new type of animal utilizing a tree stump. Meet the woodpeckers catching insects, the forest mice storing food, & larvae eating their stomachs full!
-![stump](Stump.jpg) 
+![stump](stump.jpg) 
 - For further information please chech the [itch.io page](https://jonathanpersson.itch.io/the-stump).
 
 #### For all squirrels
