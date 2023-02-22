@@ -47,6 +47,37 @@ A mutiplayer tank game
 - Entity interpolation.
 ![tank war](net.png)  
 
+*******************************
+### Ongoing Project 
+#### Mint Engine
+###### Rendering 
+- Physical based rendering 
+- Model loader and save as wavefront obj files 
+- custom environment map precomputing 
+- OpenGL graphic API support 
+- Still working: Vulkan api support, spir-v compilation, shadow, and Backed GI   
+
+###### Physics
+- RigidBody physics support.
+- Raycast, Collision detection with sphere, box, capsule, and convex.
+- Collision respons with friction (Sequential Impulses Solver).
+- Joints Phyiscs.
+- Still working: Particle physics support, Ragdoll Physics   
+
+###### Others 
+- Entity component system
+- Scene Serializer
+- C++ scriptable object support 
+- Still working: add C# script engine.
+- Still working: Optimizing memory usage (custom memory managemer)
+
+<video width="100%" preload="auto" muted controls>
+    <source src="/assets/img/intro/Engine.mp4" type="video/mp4"/>
+</video>
+
+#### Matrix 
+- 2D+3D puzzle game.
+
 *************************** 
  
 ![ଘ(੭ˊᵕˋ)੭](popocat.gif){: width="300" height="300" .left }  
