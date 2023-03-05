@@ -67,13 +67,14 @@ A mutiplayer tank game
 ###### Others 
 - Entity component system
 - Scene Serializer
-- C++ scriptable object support 
+- C++ native scriptable object support 
 - Still working: add C# script engine.
-- Still working: Optimizing memory usage (custom memory managemer)
+- Still working: Optimizing memory usage (custom memory allocator)
 
 <video width="100%" preload="auto" muted controls>
     <source src="/assets/img/intro/Engine.mp4" type="video/mp4"/>
 </video>
+- For further information please chech the [github repository](https://github.com/Jmingxiao/EnginePJ).
 
 #### Matrix 
 - 2D+3D puzzle game.
